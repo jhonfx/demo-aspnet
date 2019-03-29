@@ -31,3 +31,10 @@
 /Users/jpurataf/Projects/net/HolaMundoMVC/obj/Debug/netcoreapp2.1/HolaMundoMVC.pdb
 /Users/jpurataf/Projects/net/HolaMundoMVC/obj/Debug/netcoreapp2.1/HolaMundoMVC.csproj.CopyComplete
 /Users/jpurataf/Projects/net/HolaMundoMVC/obj/Debug/netcoreapp2.1/Razor/Views/Escuela/Index.g.cshtml.cs
+/Users/jpurataf/Projects/net/HolaMundoMVC/obj/Debug/netcoreapp2.1/Razor/Views/Asignatura/Index.g.cshtml.cs
+/Users/jpurataf/Projects/net/HolaMundoMVC/obj/Debug/netcoreapp2.1/Razor/Views/Asignatura/MultiAsignatura.g.cshtml.cs
+/Users/jpurataf/Projects/net/HolaMundoMVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Simple.g.cshtml.cs
+/Users/jpurataf/Projects/net/HolaMundoMVC/obj/Debug/netcoreapp2.1/Razor/Views/Alumno/Index.g.cshtml.cs
+/Users/jpurataf/Projects/net/HolaMundoMVC/obj/Debug/netcoreapp2.1/Razor/Views/Alumno/MultiAlumno.g.cshtml.cs
+/Users/jpurataf/Projects/net/HolaMundoMVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ObjetoEscuelaSimple.g.cshtml.cs
+/Users/jpurataf/Projects/net/HolaMundoMVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ListaObjetoEscuela.g.cshtml.cs

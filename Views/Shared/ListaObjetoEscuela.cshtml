@@ -1,0 +1,26 @@
+﻿@*
+    @model List<ObjetoEscuelaBase>
+*@
+
+
+<div class="container">
+    <table class="table table-dark table-hover">
+        <thead>
+        <th scope="col"></th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Id</th>
+        </thead>
+        <tbody>
+            @foreach (var obj in Model)
+            {
+                <tr>
+                    <td><input type="checkbox" id="alumn_id" value="@obj.UniqueId" /></td>
+                    <td>@obj.Nombre</td>
+                    <td>@obj.UniqueId</td>
+                </tr>
+
+            }
+
+        </tbody>
+    </table>
+</div>
